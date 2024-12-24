@@ -1,4 +1,4 @@
-## Deep Learning for Scratch
+## Deep Learning from Scratch
 
 This repository is dedicated to building and documenting Deep Learning concepts and models from scratch. It serves as a comprehensive resource for anyone looking to strengthen their foundational understanding and practical skills in Deep Learning.
 
